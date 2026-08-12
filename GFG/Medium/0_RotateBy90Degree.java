@@ -1,0 +1,33 @@
+/**
+ * Problem Link : https://practice.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1
+ * Platform     : GFG
+ * Difficulty   : Medium
+ */
+
+
+class Solution {
+    public void rotateMatrix(int[][] mat) {
+        int n = mat.length;
+
+        // Reverse each row
+        for (int i = 0; i < n; i++) {
+            int start = 0, end = n - 1;
+            while (start < end) {
+                int temp = mat[i][start];
+                mat[i][start] = mat[i][end];
+                mat[i][end] = temp;
+                start++;
+                end--;
+            }
+        }
+
+        // Performing Transpose
+        for (int i = 0; i < n; i++) {
+            for (int j = i + 1; j < n; j++) {
+                int temp = mat[i][j];
+                mat[i][j] = mat[j][i];
+                mat[j][i] = temp;
+            }
+        }
+    }
+}
