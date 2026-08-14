@@ -10,8 +10,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 | - |
-| GeeksforGeeks | 19 | 7 | 11 | 0 | 1 |
-| **Total** | **19** | **7** | **11** | **0** | **1** |
+| GeeksforGeeks | 20 | 7 | 12 | 0 | 1 |
+| **Total** | **20** | **7** | **12** | **0** | **1** |
 
 ## Solved Problems
 
@@ -31,9 +31,10 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 12 | [Majority Element](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_MajorityElement.java) |
 | 13 | [Next Permutation](https://practice.geeksforgeeks.org/problems/next-permutation5226/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_NextPermutation.java) |
 | 14 | [Rotate by 90 degree](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_RotateBy90Degree.java) |
-| 15 | [Set Matrix Zeros](https://practice.geeksforgeeks.org/problems/set-matrix-zeroes/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SetMatrixZeros.java) |
-| 16 | [Sort 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_Sort0s1sAnd2s.java) |
-| 17 | [Spirally Traversing a Matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SpirallyTraversingAMatrix.java) |
-| 18 | [Three Sum](https://practice.geeksforgeeks.org/problems/three-sum/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_ThreeSum.java) |
-| 19 | [Binary Search](https://practice.geeksforgeeks.org/problems/who-will-win-1587115621/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_BinarySearch.java) |
+| 15 | [Search in Rotated Sorted Array](https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SearchInRotatedSortedArray.java) |
+| 16 | [Set Matrix Zeros](https://practice.geeksforgeeks.org/problems/set-matrix-zeroes/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SetMatrixZeros.java) |
+| 17 | [Sort 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_Sort0s1sAnd2s.java) |
+| 18 | [Spirally Traversing a Matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SpirallyTraversingAMatrix.java) |
+| 19 | [Three Sum](https://practice.geeksforgeeks.org/problems/three-sum/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_ThreeSum.java) |
+| 20 | [Binary Search](https://practice.geeksforgeeks.org/problems/who-will-win-1587115621/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_BinarySearch.java) |
 <!-- COMMITDSA_END -->
