@@ -7,11 +7,11 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 ## Statistics
 
-| Platform | Total Solved | Easy | Medium | Hard |
-| --- | --- | --- | --- | --- |
-| LeetCode | 0 | 0 | 0 | 0 |
-| GeeksforGeeks | 10 | 1 | 9 | 0 |
-| **Total** | **10** | **1** | **9** | **0** |
+| Platform | Total Solved | Easy | Medium | Hard | Basic/School |
+| --- | --- | --- | --- | --- | --- |
+| LeetCode | 0 | 0 | 0 | 0 | - |
+| GeeksforGeeks | 11 | 1 | 9 | 0 | 1 |
+| **Total** | **11** | **1** | **9** | **0** | **1** |
 
 ## Solved Problems
 
@@ -27,4 +27,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 8 | [Sort 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_Sort0s1sAnd2s.java) |
 | 9 | [Spirally Traversing a Matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SpirallyTraversingAMatrix.java) |
 | 10 | [Three Sum](https://practice.geeksforgeeks.org/problems/three-sum/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_ThreeSum.java) |
+| 11 | [Binary Search](https://practice.geeksforgeeks.org/problems/who-will-win-1587115621/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_BinarySearch.java) |
 <!-- COMMITDSA_END -->
