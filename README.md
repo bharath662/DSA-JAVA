@@ -10,8 +10,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 7 | 5 | 2 | 0 | - |
-| GeeksforGeeks | 35 | 12 | 20 | 0 | 3 |
-| **Total** | **42** | **17** | **22** | **0** | **3** |
+| GeeksforGeeks | 36 | 13 | 20 | 0 | 3 |
+| **Total** | **43** | **18** | **22** | **0** | **3** |
 
 ## Solved Problems
 
@@ -32,31 +32,32 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 13 | [Linked List Insertion At Beginning](https://practice.geeksforgeeks.org/problems/linked-list-insertion-at-beginning/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_LinkedListInsertionAtBeginning.java) |
 | 14 | [Number of Occurrence](https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_NumberOfOccurrence.java) |
 | 15 | [Search in a row-wise sorted matrix](https://practice.geeksforgeeks.org/problems/search-in-a-row-wise-sorted-matrix/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_SearchInARowWiseSortedMatrix.java) |
-| 16 | [Sorted and Rotated Minimum](https://practice.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array3611/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_SortedAndRotatedMinimum.java) |
-| 17 | [Sorted Insert Position](https://practice.geeksforgeeks.org/problems/search-insert-position-of-k-in-a-sorted-array/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_SortedInsertPosition.java) |
-| 18 | [Square Root](https://practice.geeksforgeeks.org/problems/square-root/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_SquareRoot.java) |
-| 19 | [Unique Number I](https://practice.geeksforgeeks.org/problems/find-unique-number/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_UniqueNumberI.java) |
-| 20 | [4 Sum](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/4_Sum.java) |
-| 21 | [Find nth root of m](https://practice.geeksforgeeks.org/problems/find-nth-root-of-m5843/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_FindNthRootOfM.java) |
-| 22 | [Find the Peak Element in a 2D Matrix](https://practice.geeksforgeeks.org/problems/find-the-peak-element-in-a-2d-matrix/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_FindThePeakElementInA2DMatrix.java) |
-| 23 | [First and Last in Sorted](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_FirstAndLastInSorted.java) |
-| 24 | [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_KadanesAlgorithm.java) |
-| 25 | [Koko Eating Bananas](https://practice.geeksforgeeks.org/problems/koko-eating-bananas/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_KokoEatingBananas.java) |
-| 26 | [Longest Consecutive Subsequence](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_LongestConsecutiveSubsequence.java) |
-| 27 | [Majority Element](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_MajorityElement.java) |
-| 28 | [Next Permutation](https://practice.geeksforgeeks.org/problems/next-permutation5226/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_NextPermutation.java) |
-| 29 | [Peak element](https://practice.geeksforgeeks.org/problems/peak-element/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_PeakElement.java) |
-| 30 | [Rotate by 90 degree](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_RotateBy90Degree.java) |
-| 31 | [Row with Max 1s in Rowwise Sorted](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_RowWithMax1sInRowwiseSorted.java) |
-| 32 | [Search in Fully Rotated Sorted 2D Matrix](https://practice.geeksforgeeks.org/problems/search-in-fully-rotated-sorted-2d-matrix/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SearchInFullyRotatedSorted2DMatrix.java) |
-| 33 | [Search in Rotated Array 2](https://practice.geeksforgeeks.org/problems/search-in-rotated-array-2/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SearchInRotatedArray2.java) |
-| 34 | [Search in Rotated Sorted Array](https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SearchInRotatedSortedArray.java) |
-| 35 | [Set Matrix Zeros](https://practice.geeksforgeeks.org/problems/set-matrix-zeroes/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SetMatrixZeros.java) |
-| 36 | [Single Among Doubles in a Sorted](https://practice.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array0624/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SingleAmongDoublesInASorted.java) |
-| 37 | [Sort 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_Sort0s1sAnd2s.java) |
-| 38 | [Spirally Traversing a Matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SpirallyTraversingAMatrix.java) |
-| 39 | [Three Sum](https://practice.geeksforgeeks.org/problems/three-sum/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_ThreeSum.java) |
-| 40 | [Binary Search](https://practice.geeksforgeeks.org/problems/who-will-win-1587115621/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_BinarySearch.java) |
-| 41 | [Length of Linked List](https://practice.geeksforgeeks.org/problems/count-nodes-of-linked-list/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LengthOfLinkedList.java) |
-| 42 | [Linked List End Insertion](https://practice.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LinkedListEndInsertion.java) |
+| 16 | [Search in Linked List](https://practice.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_SearchInLinkedList.java) |
+| 17 | [Sorted and Rotated Minimum](https://practice.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array3611/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_SortedAndRotatedMinimum.java) |
+| 18 | [Sorted Insert Position](https://practice.geeksforgeeks.org/problems/search-insert-position-of-k-in-a-sorted-array/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_SortedInsertPosition.java) |
+| 19 | [Square Root](https://practice.geeksforgeeks.org/problems/square-root/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_SquareRoot.java) |
+| 20 | [Unique Number I](https://practice.geeksforgeeks.org/problems/find-unique-number/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_UniqueNumberI.java) |
+| 21 | [4 Sum](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/4_Sum.java) |
+| 22 | [Find nth root of m](https://practice.geeksforgeeks.org/problems/find-nth-root-of-m5843/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_FindNthRootOfM.java) |
+| 23 | [Find the Peak Element in a 2D Matrix](https://practice.geeksforgeeks.org/problems/find-the-peak-element-in-a-2d-matrix/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_FindThePeakElementInA2DMatrix.java) |
+| 24 | [First and Last in Sorted](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_FirstAndLastInSorted.java) |
+| 25 | [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_KadanesAlgorithm.java) |
+| 26 | [Koko Eating Bananas](https://practice.geeksforgeeks.org/problems/koko-eating-bananas/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_KokoEatingBananas.java) |
+| 27 | [Longest Consecutive Subsequence](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_LongestConsecutiveSubsequence.java) |
+| 28 | [Majority Element](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_MajorityElement.java) |
+| 29 | [Next Permutation](https://practice.geeksforgeeks.org/problems/next-permutation5226/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_NextPermutation.java) |
+| 30 | [Peak element](https://practice.geeksforgeeks.org/problems/peak-element/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_PeakElement.java) |
+| 31 | [Rotate by 90 degree](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_RotateBy90Degree.java) |
+| 32 | [Row with Max 1s in Rowwise Sorted](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_RowWithMax1sInRowwiseSorted.java) |
+| 33 | [Search in Fully Rotated Sorted 2D Matrix](https://practice.geeksforgeeks.org/problems/search-in-fully-rotated-sorted-2d-matrix/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SearchInFullyRotatedSorted2DMatrix.java) |
+| 34 | [Search in Rotated Array 2](https://practice.geeksforgeeks.org/problems/search-in-rotated-array-2/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SearchInRotatedArray2.java) |
+| 35 | [Search in Rotated Sorted Array](https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SearchInRotatedSortedArray.java) |
+| 36 | [Set Matrix Zeros](https://practice.geeksforgeeks.org/problems/set-matrix-zeroes/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SetMatrixZeros.java) |
+| 37 | [Single Among Doubles in a Sorted](https://practice.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array0624/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SingleAmongDoublesInASorted.java) |
+| 38 | [Sort 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_Sort0s1sAnd2s.java) |
+| 39 | [Spirally Traversing a Matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SpirallyTraversingAMatrix.java) |
+| 40 | [Three Sum](https://practice.geeksforgeeks.org/problems/three-sum/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_ThreeSum.java) |
+| 41 | [Binary Search](https://practice.geeksforgeeks.org/problems/who-will-win-1587115621/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_BinarySearch.java) |
+| 42 | [Length of Linked List](https://practice.geeksforgeeks.org/problems/count-nodes-of-linked-list/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LengthOfLinkedList.java) |
+| 43 | [Linked List End Insertion](https://practice.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LinkedListEndInsertion.java) |
 <!-- COMMITDSA_END -->
