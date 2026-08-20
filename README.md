@@ -10,8 +10,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 7 | 5 | 2 | 0 | - |
-| GeeksforGeeks | 33 | 12 | 20 | 0 | 1 |
-| **Total** | **40** | **17** | **22** | **0** | **1** |
+| GeeksforGeeks | 34 | 12 | 20 | 0 | 2 |
+| **Total** | **41** | **17** | **22** | **0** | **2** |
 
 ## Solved Problems
 
@@ -57,4 +57,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 38 | [Spirally Traversing a Matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SpirallyTraversingAMatrix.java) |
 | 39 | [Three Sum](https://practice.geeksforgeeks.org/problems/three-sum/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_ThreeSum.java) |
 | 40 | [Binary Search](https://practice.geeksforgeeks.org/problems/who-will-win-1587115621/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_BinarySearch.java) |
+| 41 | [Linked List End Insertion](https://practice.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LinkedListEndInsertion.java) |
 <!-- COMMITDSA_END -->
